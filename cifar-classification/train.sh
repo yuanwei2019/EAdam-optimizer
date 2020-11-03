@@ -1,0 +1,1 @@
+nohup python -u main.py --dataset cifar10 --model vgg11 --optim adam --lr 1e-3 --beta1 0.9 --beta2 0.999 --eps 5e-2 > ./logs/vgg11-adam-lr1e-3-cifar10-eps5-2.file 2>&1 &

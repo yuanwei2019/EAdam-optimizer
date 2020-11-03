@@ -1,0 +1,1 @@
+nohup python -u tools/train.py --config ./configs/pascal_voc/RAdamfig.py --gpu-ids 2 --work-dir radamlr1e-4eps8 > ./logs/faster_rcnn_r50_fpn_1x_voc0712-radamlr1e-4eps8.file 2>&1 &
