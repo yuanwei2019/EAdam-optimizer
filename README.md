@@ -1,5 +1,6 @@
 <h1 align="center">EAdam Optimizier</h1>
-<h3 align="center">EAdam OPtimizer: How Epsilon Impact Adam</h3>
+
+### Arxiv: [EAdam Optimizer: How ε Impact Adam](https://arxiv.org/abs/2011.02150)
 
 ## Introduction
 * We find that simply changing the position of epsilon can obtain better performance than Adam through experiments.
